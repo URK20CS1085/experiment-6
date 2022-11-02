@@ -1,0 +1,16 @@
+#box{
+    width: 200px;
+    height: 200px;
+    background-color: yellow;
+    border: 1px solid blue;
+    text-align: center;
+    align-items: center;
+    max-width: 500px;
+    margin: auto;
+    background: white;
+    padding: 10px;
+  }
+  body {
+    background: rgb(151, 149, 149);
+  }
+  
